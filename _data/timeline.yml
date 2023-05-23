@@ -1,17 +1,18 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University of Michigan
+  from: 2020
+  to: 2023
+  description: Studying CS, Robotics, CV
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineering Intern, Amazon
+  from: 2023
+  description: Worked on cool things!
+
+- title: Software Engineering Intern, Amazon
+  from: 2022
+  to: 2022
+  description: Worked on cool things!
+
+- title: Software Engineering Intern, Principal Finacial Group
+  from: 2021
+  to: 2021
+  description: Worked on cool things!
