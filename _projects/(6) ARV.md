@@ -1,7 +1,7 @@
 ---
 name: ARV
 tools: [Robotics]
-image: https://media.licdn.com/dms/image/sync/D5627AQGa7MyyRdjwvw/articleshare-shrink_800/0/1684616362771?e=1685430000&v=beta&t=p9Acf_0nXfwb8E-451In12rQ8AO7R2ZK41LmRP6A6Y4
+image: https://static.wixstatic.com/media/3c31dd_1762cbc7df66422492ed0b3070a278e9~mv2.jpg/v1/crop/x_909,y_360,w_2266,h_2261/fill/w_778,h_776,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/JPG_5518.jpg
 description: Autonomous Robotic Vehicle Team
 external_url: https://www.umarv.com/
 ---
