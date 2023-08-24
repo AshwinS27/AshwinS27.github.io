@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Ashwin Saxena
-  image             : https://media.licdn.com/dms/image/C4D03AQG11GRWWWvEag/profile-displayphoto-shrink_800_800/0/1663108557059?e=2147483647&v=beta&t=cMNS3SpbWyH3MBrX9SAL74XCe0Lme7XZsgaX85pQpQ8
+  image             : assets/me.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : ashwinsa@umich.edu

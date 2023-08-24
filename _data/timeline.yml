@@ -1,18 +1,34 @@
 - title: Student, University of Michigan
   from: 2020
   to: 2023
-  description: Studying CS, Robotics, CV
+  description: Studying CS, Robotics, AI/ML, CV
 
 - title: Software Engineering Intern, Amazon
-  from: 2023
+  from: May 2023
+  to: August 2023
   description: Worked on cool things!
+    - Created a streamlined 1-click Backfill tool utilizing Java and AWS technologies like Lambda and CloudWatch to seamlessly migrate events from S3 to SQS, enhancing GDPR compliance and safeguarding customer data.
+    - Developed a Python-based CLI for initiating the backfill process, contributing to a user-friendly experience and efficient data transfer.
+    - Played a pivotal role in optimizing data integrity and reducing engineering effort by 3-5 days during outages or integration of new services into the MLOps pipeline through the innovative Backfill tool.
 
 - title: Software Engineering Intern, Amazon
-  from: 2022
-  to: 2022
+  from: May 2022
+  to: August 2022
   description: Worked on cool things!
+    - Engineered a Python-based CLI query engine to accelerate AWS region build times by over 5%, leveraging Pandas, Numpy, Jupyter, and Graphviz libraries for enhanced data visualization and formatting.
+    - Optimized CLI performance for product managers by implementing multithreading, resulting in a 500% reduction in query time and improved efficiency.
 
 - title: Software Engineering Intern, Principal Finacial Group
-  from: 2021
-  to: 2021
-  description: Worked on cool things!
+  from: May 2021
+  to: August 2021
+  description:  
+    - Developed back-end web applications in Java and REST services employing DevOps practices and collaborated in an Agile team using the SCRUM framework
+    - Utilized the Elastic (ELK) stack to enable event-driven system logging and wrote unit tests and automation scripts
+    - Handled enterprise data using SQL in IBM DB2 under the Master Data Management discipline to provide a more holistic view of the various databases
+
+- title: Autonomous Vehicle Research Intern, Michigan State University, St. Andrews
+  from: June 2019
+  to: August 2019
+  description:
+    - Designed and constructed autonomous model cars using supervised machine learning and Keras API, enabling cars to drive on a painted track with no human input with a 98% accuracy
+    - Analyzed different sensors and incorporated them into neural networks to make a more stable autonomous car that could avoid objects
