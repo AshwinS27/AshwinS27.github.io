@@ -6,7 +6,7 @@
 - title: Software Engineering Intern, Amazon
   from: May 2023
   to: August 2023
-  description: Worked on cool things!
+  description:
     - Created a streamlined 1-click Backfill tool utilizing Java and AWS technologies like Lambda and CloudWatch to seamlessly migrate events from S3 to SQS, enhancing GDPR compliance and safeguarding customer data.
     - Developed a Python-based CLI for initiating the backfill process, contributing to a user-friendly experience and efficient data transfer.
     - Played a pivotal role in optimizing data integrity and reducing engineering effort by 3-5 days during outages or integration of new services into the MLOps pipeline through the innovative Backfill tool.
@@ -14,7 +14,7 @@
 - title: Software Engineering Intern, Amazon
   from: May 2022
   to: August 2022
-  description: Worked on cool things!
+  description:
     - Engineered a Python-based CLI query engine to accelerate AWS region build times by over 5%, leveraging Pandas, Numpy, Jupyter, and Graphviz libraries for enhanced data visualization and formatting.
     - Optimized CLI performance for product managers by implementing multithreading, resulting in a 500% reduction in query time and improved efficiency.
 
