@@ -4,6 +4,7 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
+                      [Resume](/assets/Resume.pdf)
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : AshwinS27/AshwinS27.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : AshwinS27/AshwinS27.github.io
@@ -24,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Ashwin Saxena
-  image             : https://drive.google.com/file/d/1Ahr6B-apUyqUNqm0T3inCg2ERUvR8H6H/view
+  image             : "/assets/me.jpeg"
 #  behance           : your_username
 # dribbble          : your_username
   email             : ashwinsa@umich.edu
