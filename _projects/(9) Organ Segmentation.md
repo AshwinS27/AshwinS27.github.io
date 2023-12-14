@@ -1,8 +1,8 @@
 ---
-name: "CHAOS Dataset Organ Segmentation"
+name: "CHAOS Organ Segmentation"
 tools: [Python, MRI]
-description: Bioinformatics, Biomedical, CV
-image: images/organ_segment.png
+description: Semabtic segmentation of oragns using MRI data
+image: /images/organ_segment.png
 ---
 Cross sectional body images are one of the primary tools employed by medical professionals when diagnosing and assessing a patient’s condition. The accurate identification and segmentation of organs in medical images, particularly computed topography (CT) scans, is a crucial step in modern healthcare. Precise organ segmentation enables clinicians to diagnose and treat diseases more effectively, but manual segmentation is time-consuming and prone to errors. Our project aims to address this challenge by developing a machine learning solution using a U-Net architecture for organ segmentation in MRI images.
 

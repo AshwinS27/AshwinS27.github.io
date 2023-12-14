@@ -1,7 +1,7 @@
 ---
-name: "fLip The Script: Leveraging Language Models for Lip Reading"
+name: "fLip The Script"
 tools: [Python, LLM]
-description: Lip Reading, Facial Recognition
+description: : Leveraging Language Models for Lip Reading
 external_url: https://github.com/AshwinS27/TrebleInTheSheets
 ---
 
