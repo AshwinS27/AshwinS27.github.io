@@ -2,6 +2,7 @@
 name: "ArmBot"
 tools: [Forward Kinematics, CV]
 description: Developing a 7 DoF Robotic Arm
+image: /images/armlab.jpg
 ---
 
 Here are some videos of the robotic arm doing some cool things:
