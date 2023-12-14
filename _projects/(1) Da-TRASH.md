@@ -10,12 +10,20 @@ description: Depth-appended Tabletop Recycling Algorithm for Segmenting Havoc
 
 
 <div class="project-links" markdown="1" style="display: flex; justify-content: center; align-items: center">
-[![](/assets/logos/acrobat.svg){: .text-logo } Report](https://github.com/schefferac2020/Da-TRASH/blob/main/Da-TRASH_final_report.pdf){: .btn .btn-grey .mr-6 target="_blank" rel="noopener noreferrer" }
+[![](/assets/logos/acrobat.svg){:
+    style="height: 1.1em;" 
+    class="text-logo"
+ } Report](https://github.com/schefferac2020/Da-TRASH/blob/main/Da-TRASH_final_report.pdf){:
+    style="background-color: #24292F; color: #24292F;" 
+    class="btn btn-grey" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+  }
 [![](/assets/logos/github-mark.svg){: 
     style="height: 1.1em;" 
     class="text-logo" 
 } Code](https://github.com/schefferac2020/Da-TRASH){: 
-    style="background-color: #24292F; color: $white;" 
+    style="background-color: #24292F; color: #24292F;" 
     class="btn btn-grey" 
     target="_blank" 
     rel="noopener noreferrer" 
