@@ -13,7 +13,7 @@ I’m a Graduate student studying Computer Vision and Robotics at the University
     style="height: 1.1em;" 
     class="text-logo"
  } Resume](/assets/Resume.pdf){:
-    style="background-color: #24292F; color: #FFFFFF; width: 80px;" 
+    style="background-color: #24292F; color: #FFFFFF; width: 200px; text-align: center;" 
     class="btn btn-grey" 
     target="_blank" 
     rel="noopener noreferrer" 
