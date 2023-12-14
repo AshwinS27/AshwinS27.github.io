@@ -2,7 +2,6 @@
 name: "ArmBot"
 tools: [Forward Kinematics, CV]
 description: Developing a 7 DoF Robotic Arm
-external_url: https://github.com/AshwinS27/WordleAI
 ---
 
 Here are some videos of the robotic arm doing some cool things:
